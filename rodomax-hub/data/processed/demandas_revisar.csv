@@ -1,0 +1,10 @@
+﻿cliente,email,telefone,origem,destino,valor_frete,fonte,email_invalido,telefone_invalido,classificacao_ia,score_ia,motivo_ia
+GRUPO VIACERTA,fretes14@grupoviacerta.com.br,45928119557,PARANAGUÁ,FOZ DO IGUAÇU,85000.0,CSV,False,False,REVISAR,0.2381978296612316,"valor muito acima da mediana (R$ 3,137.76)"
+EXPRESSO OESTE CARGAS,fretes15@expressooestec.com.br,45997861742,FOZ DO IGUAÇU,UMUARAMA,25.0,CSV,False,False,REVISAR,0.2930573062964583,"valor muito abaixo da mediana (R$ 3,137.76)"
+GRUPO VIACERTA,fretes24@grupoviacerta.com.br,45908526544,JOINVILLE,PONTA GROSSA,85000.0,CSV,False,False,REVISAR,0.2381978296612316,"valor muito acima da mediana (R$ 3,137.76)"
+CARGAS UNIÃO,fretes61@cargasunião.com.br,45909736572,CHAPECÓ,FOZ DO IGUAÇU,497.04,CSV,False,False,REVISAR,0.19424116539820646,"valor muito abaixo da mediana (R$ 3,137.76)"
+MERCADO CENTRAL DISTRIBUIÇÃO,fretes86@mercadocentral.com.br,45935630292,FOZ DO IGUAÇU,PONTA GROSSA,643.2,JSON,False,False,REVISAR,0.045588997941657605,"valor muito abaixo da mediana (R$ 3,137.76)"
+FASTROUTE LOGÍSTICA,fretes205@fastroutelogís.com.br,45991452441,PARANAGUÁ,CURITIBA,666.58,CSV,False,False,REVISAR,0.01234705972556327,"valor muito abaixo da mediana (R$ 3,137.76)"
+SULCARGO TRANSPORTES,fretes268@sulcargotransp.com.br,45934999248,CHAPECÓ,GUARAPUAVA,650.33,CSV,False,False,REVISAR,0.028510117631591947,"valor muito abaixo da mediana (R$ 3,137.76)"
+NOVA ROTA CARGAS,fretes278@novarotacargas.com.br,45930686695,PONTA GROSSA,LONDRINA,98000.0,JSON,False,False,REVISAR,0.287786468449027,"valor muito acima da mediana (R$ 3,137.76)"
+SULCARGO TRANSPORTES,fretes279@sulcargotransp.com.br,45901332796,PONTA GROSSA,FOZ DO IGUAÇU,18.0,XLSX,False,False,REVISAR,0.30088686987616364,"valor muito abaixo da mediana (R$ 3,137.76)"

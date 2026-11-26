@@ -1,0 +1,266 @@
+[
+  {
+    "cliente": "PARANÁ CARGO EXPRESS",
+    "email": "fretes182@paranácargoexp.com.br",
+    "telefone": "45909114170",
+    "origem": "TOLEDO",
+    "destino": "CHAPECÓ",
+    "valor_frete": 4510.86
+  },
+  {
+    "cliente": "CARGAS UNIÃO",
+    "email": "fretes185@cargasunião.com.br",
+    "telefone": "45916897684",
+    "origem": "UMUARAMA",
+    "destino": "SÃO PAULO",
+    "valor_frete": 4653.49
+  },
+  {
+    "cliente": "PRIME TRANSPORTES",
+    "email": "fretes188@primetransport.com.br",
+    "telefone": "45966344002",
+    "origem": "UMUARAMA",
+    "destino": "PONTA GROSSA",
+    "valor_frete": 3747.09
+  },
+  {
+    "cliente": "PARANÁ CARGO EXPRESS",
+    "email": "fretes191@paranácargoexp.com.br",
+    "telefone": "45947513627",
+    "origem": "CASCAVEL",
+    "destino": "PARANAGUÁ",
+    "valor_frete": 4999.11
+  },
+  {
+    "cliente": "PARANÁ CARGO EXPRESS",
+    "email": "fretes194@paranácargoexp.com.br",
+    "telefone": "45984162294",
+    "origem": "CURITIBA",
+    "destino": "MARINGÁ",
+    "valor_frete": 3036.97
+  },
+  {
+    "cliente": "TRANSPARANÁ LOGÍSTICA",
+    "email": "fretes197@transparanálog.com.br",
+    "telefone": "45983695793",
+    "origem": "CURITIBA",
+    "destino": "MARINGÁ",
+    "valor_frete": 3856.79
+  },
+  {
+    "cliente": "MERCADO CENTRAL DISTRIBUIÇÃO",
+    "email": "fretes200@mercadocentral.com.br",
+    "telefone": "45942524776",
+    "origem": "CASCAVEL",
+    "destino": "GUARAPUAVA",
+    "valor_frete": 1980.82
+  },
+  {
+    "cliente": "ESTRELA DO OESTE",
+    "email": "fretes203@estreladooeste.com.br",
+    "telefone": "45994893949",
+    "origem": "GUARAPUAVA",
+    "destino": "CAMPO GRANDE",
+    "valor_frete": 1886.88
+  },
+  {
+    "cliente": "LOGÍSTICA VALE VERDE",
+    "email": "fretes206@logísticavalev.com.br",
+    "telefone": "45901304118",
+    "origem": "SÃO PAULO",
+    "destino": "APUCARANA",
+    "valor_frete": 3367.11
+  },
+  {
+    "cliente": "GRUPO VIACERTA",
+    "email": "fretes209@grupoviacerta.com.br",
+    "telefone": "45914659085",
+    "origem": "PARANAGUÁ",
+    "destino": "CURITIBA",
+    "valor_frete": 1547.75
+  },
+  {
+    "cliente": "BRASIL CARGAS",
+    "email": "fretes212@brasilcargas.com.br",
+    "telefone": "45908864230",
+    "origem": "FOZ DO IGUAÇU",
+    "destino": "LONDRINA",
+    "valor_frete": 679.66
+  },
+  {
+    "cliente": "BRASIL CARGAS",
+    "email": "fretes215@brasilcargas.com.br",
+    "telefone": "45953845355",
+    "origem": "PONTA GROSSA",
+    "destino": "PATO BRANCO",
+    "valor_frete": 2804.49
+  },
+  {
+    "cliente": "FASTROUTE LOGÍSTICA",
+    "email": "fretes218@fastroutelogís.com.br",
+    "telefone": "45939490668",
+    "origem": "APUCARANA",
+    "destino": "LONDRINA",
+    "valor_frete": 5223.09
+  },
+  {
+    "cliente": "NORTESUL DISTRIBUIÇÃO",
+    "email": "fretes221@nortesuldistri.com.br",
+    "telefone": "45958280258",
+    "origem": "UMUARAMA",
+    "destino": "GUARAPUAVA",
+    "valor_frete": 1294.78
+  },
+  {
+    "cliente": "NOVA ROTA CARGAS",
+    "email": "fretes224@novarotacargas.com.br",
+    "telefone": "45971883579",
+    "origem": "UMUARAMA",
+    "destino": "TOLEDO",
+    "valor_frete": 2256.57
+  },
+  {
+    "cliente": "CARGAS UNIÃO",
+    "email": "fretes227@cargasunião.com.br",
+    "telefone": "45979264515",
+    "origem": "GUARAPUAVA",
+    "destino": "CASCAVEL",
+    "valor_frete": 1878.99
+  },
+  {
+    "cliente": "MERCADO CENTRAL DISTRIBUIÇÃO",
+    "email": "fretes230@mercadocentral.com.br",
+    "telefone": "45950620484",
+    "origem": "PATO BRANCO",
+    "destino": "PARANAGUÁ",
+    "valor_frete": 1226.88
+  },
+  {
+    "cliente": "BRASIL CARGAS",
+    "email": "fretes233@brasilcargas.com.br",
+    "telefone": "45973924196",
+    "origem": "PARANAGUÁ",
+    "destino": "CHAPECÓ",
+    "valor_frete": 4016.78
+  },
+  {
+    "cliente": "  paraná cargo express  ",
+    "email": "fretes236@paranácargoexp.com.br",
+    "telefone": "45975473548",
+    "origem": "CURITIBA",
+    "destino": "APUCARANA",
+    "valor_frete": 4642.79
+  },
+  {
+    "cliente": "PRIME TRANSPORTES",
+    "email": "fretes239@primetransport.com.br",
+    "telefone": "45919307336",
+    "origem": "PONTA GROSSA",
+    "destino": "PARANAGUÁ",
+    "valor_frete": 3038.56
+  },
+  {
+    "cliente": "GRUPO VIACERTA",
+    "email": "fretes242@grupoviacerta.com.br",
+    "telefone": "45948527220",
+    "origem": "FOZ DO IGUAÇU",
+    "destino": "CASCAVEL",
+    "valor_frete": 4206.52
+  },
+  {
+    "cliente": "NOVA ROTA CARGAS",
+    "email": "fretes245@novarotacargas.com.br",
+    "telefone": "45902831663",
+    "origem": "LONDRINA",
+    "destino": "FOZ DO IGUAÇU",
+    "valor_frete": 4598.9
+  },
+  {
+    "cliente": "NOVA ROTA CARGAS",
+    "email": "fretes248@novarotacargas.com.br",
+    "telefone": "45923636082",
+    "origem": "FOZ DO IGUAÇU",
+    "destino": "CAMPO GRANDE",
+    "valor_frete": 3711.33
+  },
+  {
+    "cliente": "estrela do oeste",
+    "email": "fretes251@estreladooeste.com.br",
+    "telefone": "45941775888",
+    "origem": "PARANAGUÁ",
+    "destino": "PONTA GROSSA",
+    "valor_frete": 5142.75
+  },
+  {
+    "cliente": "LOGÍSTICA VALE VERDE",
+    "email": "fretes254@logísticavalev.com.br",
+    "telefone": "45919815247",
+    "origem": "APUCARANA",
+    "destino": "UMUARAMA",
+    "valor_frete": 1761.64
+  },
+  {
+    "cliente": "OESTE BRASIL TRANSPORTES",
+    "email": "fretes257@oestebrasiltra.com.br",
+    "telefone": "45924385469",
+    "origem": "TOLEDO",
+    "destino": "PONTA GROSSA",
+    "valor_frete": 726.23
+  },
+  {
+    "cliente": "NOVA ROTA CARGAS",
+    "email": "fretes260@novarotacargas.com.br",
+    "telefone": "45920381780",
+    "origem": "CASCAVEL",
+    "destino": "CURITIBA",
+    "valor_frete": 2307.21
+  },
+  {
+    "cliente": "OESTE BRASIL TRANSPORTES",
+    "email": "fretes263@oestebrasiltra.com.br",
+    "telefone": "45986713006",
+    "origem": "PATO BRANCO",
+    "destino": "CHAPECÓ",
+    "valor_frete": 2452.02
+  },
+  {
+    "cliente": "SULCARGO TRANSPORTES",
+    "email": "fretes266@sulcargotransp.com.br",
+    "telefone": "45925278120",
+    "origem": "UMUARAMA",
+    "destino": "SÃO PAULO",
+    "valor_frete": 4509.15
+  },
+  {
+    "cliente": "NORTESUL DISTRIBUIÇÃO",
+    "email": "fretes269@nortesuldistri.com.br",
+    "telefone": "45927913729",
+    "origem": "PARANAGUÁ",
+    "destino": "TOLEDO",
+    "valor_frete": 5181.61
+  },
+  {
+    "cliente": "CARGAS UNIÃO",
+    "email": "fretes272@cargasunião.com.br",
+    "telefone": "45974479674",
+    "origem": "LONDRINA",
+    "destino": null,
+    "valor_frete": 4728.02
+  },
+  {
+    "cliente": "ESTRELA DO OESTE",
+    "email": "fretes275@estreladooeste.com.br",
+    "telefone": "12345",
+    "origem": "PONTA GROSSA",
+    "destino": "PATO BRANCO",
+    "valor_frete": 4127.69
+  },
+  {
+    "cliente": "NOVA ROTA CARGAS",
+    "email": "fretes278@novarotacargas.com.br",
+    "telefone": "45930686695",
+    "origem": "PONTA GROSSA",
+    "destino": "LONDRINA",
+    "valor_frete": 98000.0
+  }
+]
